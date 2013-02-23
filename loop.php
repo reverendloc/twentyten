@@ -130,10 +130,6 @@
 		<div id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 			<h2 class="entry-title"><a href="<?php the_permalink(); ?>" title="<?php echo esc_attr( sprintf( __( 'Permalink to %s', 'twentyten' ), the_title_attribute( 'echo=0' ) ) ); ?>" rel="bookmark"><?php the_title(); ?></a></h2>
 
-			<div class="entry-meta">
-				<?php twentyten_posted_on(); ?>
-			</div><!-- .entry-meta -->
-
 	<?php if ( is_archive() || is_search() ) : // Only display excerpts for archives and search. ?>
 			<div class="entry-summary">
 				<?php the_excerpt(); ?>
@@ -154,7 +150,7 @@
 	<?php endif; ?>
 
 			<div class="entry-utility">
-				<?php if ( count( get_the_category() ) ) : ?>
+                <?php twentyten_posted_on(); ?> | <?php if ( count( get_the_category() ) ) : ?>
 					<span class="cat-links">
 						<?php printf( __( '<span class="%1$s">Posted in</span> %2$s', 'twentyten' ), 'entry-utility-prep entry-utility-prep-cat-links', get_the_category_list( ', ' ) ); ?>
 					</span>

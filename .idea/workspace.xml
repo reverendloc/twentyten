@@ -29,11 +29,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="loop.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="loop.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/loop.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="143" column="36" selection-start="7060" selection-end="7060" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="152" column="13" selection-start="7508" selection-end="7508" vertical-scroll-proportion="0.23730814">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#4;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -47,10 +49,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="79" selection-start="782" selection-end="782" vertical-scroll-proportion="0.21129943">
+            <state line="23" column="79" selection-start="782" selection-end="782" vertical-scroll-proportion="-7.1923075">
               <folding>
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -69,9 +71,9 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/header.php" />
-        <option value="$PROJECT_DIR$/loop.php" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/loop.php" />
       </list>
     </option>
   </component>
@@ -282,7 +284,9 @@
     <entry file="file://$PROJECT_DIR$/loop.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="143" column="36" selection-start="7060" selection-end="7060" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#4;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -360,13 +364,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/loop.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="143" column="36" selection-start="7060" selection-end="7060" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="174" column="23" selection-start="4048" selection-end="4054" vertical-scroll-proportion="-12.32">
@@ -376,9 +373,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="79" selection-start="782" selection-end="782" vertical-scroll-proportion="0.21129943">
+        <state line="23" column="79" selection-start="782" selection-end="782" vertical-scroll-proportion="-7.1923075">
           <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loop.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="152" column="13" selection-start="7508" selection-end="7508" vertical-scroll-proportion="0.23730814">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#4;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
