@@ -140,6 +140,14 @@
 			</div><!-- .entry-summary -->
 	<?php else : ?>
 			<div class="entry-content">
+
+            <div style="float: left; margin-right: 5px;">
+                <?php if ( has_post_thumbnail() ) { //check to see if post has a thumbnail, then assign to it
+            the_post_thumbnail();
+            }
+            ?>
+            </div>
+
 				<?php the_content( __( 'Continue reading <span class="meta-nav">&rarr;</span>', 'twentyten' ) ); ?>
 				<?php wp_link_pages( array( 'before' => '<div class="page-link">' . __( 'Pages:', 'twentyten' ), 'after' => '</div>' ) ); ?>
 			</div><!-- .entry-content -->
