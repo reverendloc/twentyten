@@ -58,9 +58,9 @@
 	<div id="header">
 
 
-        <div id="leftLogo"><img src="http://localhost/wordpress/images/PWRCLogo_2012.png"</div>
-        <div id="headerLogo"><img src="http://localhost/wordpress/images/headerBG.jpg"></div>
-        <div id="rightLogo"><img src="http://localhost/wordpress/images/PWRCLogo_2012.png"</div>
+        <img src="http://localhost/wordpress/images/PWRCLogo_2012.png" id="leftLogo">
+        <img src="http://localhost/wordpress/images/headerBG.jpg" id= "headerLogo">
+        <img src="http://localhost/wordpress/images/PWRCLogo_2012.png" id = rightLogo>
 		<div id="masthead">
 
 			<div id="access" role="navigation" style="margin-top: 120px; width: 520px;">
