@@ -21,6 +21,7 @@ get_header(); ?>
 
 		<div id="container">
 			<div id="content" role="main">
+                <img src="http://localhost/wordpress/images/blogLoopTitle.png">
 
 			<?php
 			/* Run the loop to output the posts.
