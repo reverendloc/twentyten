@@ -71,7 +71,7 @@ DESCRIPTION: Two-column fixed layout with one sidebar right of content
 	float: left;
 	margin: 0 -240px 0 0;
 	width: 100%;
-    background: blue;
+    background: url("../../../images/pageBG.jpg");
 }
 #content {
 	margin: 0 280px 0 20px;
@@ -172,7 +172,7 @@ div.menu,
 	width: 960px;
 }
 #wrapper {
-	background: #ff00ff;
+	background: #cfd2d5;
 /*	margin-top: 20px;
 	padding: 0 20px;*/
 }
@@ -359,8 +359,6 @@ a:hover {
     background: url();
     height: 110px;
     width: 520px;
-    margin-left: auto;
-    margin-right: auto;
     margin-left: 10px;
 }
 

@@ -15,7 +15,7 @@
 
 get_header(); ?>
 
-        <div style="width: 960px; height: 341px">
+        <div style="width: 960px; height: 341px; background: #cfd2d5">
             <img src="http://localhost/wordpress/images/slideshow.jpg">
         </div>
 
