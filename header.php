@@ -59,7 +59,7 @@
 
 
         <img src="http://localhost/wordpress/images/PWRCLogo_2012.png" id="leftLogo">
-        <img src="http://localhost/wordpress/images/headerBG.jpg" id= "headerLogo">
+        <img src="http://localhost/wordpress/images/headerBG.jpg" id= "headerLogo" style="padding-top: 10px;">
         <a href="http://www.usarugby.org/college-directory/category/pacific-western"><img src="http://localhost/wordpress/images/PWRCLogo_2012.png" id = rightLogo></a>
 		<div id="masthead">
 

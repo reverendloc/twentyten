@@ -417,7 +417,7 @@ div.menu {
 #access .menu-header ul,
 div.menu ul {
 	list-style: none;
-	margin: 0;
+	margin: -2px;
 }
 #access .menu-header li,
 div.menu li {
@@ -425,9 +425,10 @@ div.menu li {
 	position: relative;
 }
 #access a {
-	color: #aaa;
+	color: #c0c0c0;
+    font-weight: bold;
 	display: block;
-	line-height: 38px;
+	line-height: 60px;
 	padding: 0 10px;
 	text-decoration: none;
 }
