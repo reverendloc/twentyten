@@ -69,12 +69,12 @@ DESCRIPTION: Two-column fixed layout with one sidebar right of content
 
 #container {
 	float: left;
-	margin: 0 -240px 0 0;
-	width: 100%;
+	width: 645px;
     background: url("../../../images/pageBG.jpg");
 }
 #content {
-	margin: 0 280px 0 20px;
+	margin: 0 5px;
+    width: 645px;
 }
 #primary,
 #secondary {
@@ -497,8 +497,8 @@ div.menu li {
 #content input,
 #content textarea {
 	color: #333;
-	font-size: 16px;
-	line-height: 24px;
+	font-size: 14px;
+	line-height: 19px;
 }
 #content p,
 #content ul,
@@ -560,7 +560,7 @@ div.menu li {
 	background: #f2f7fc;
 }
 .hentry {
-	margin: 0 0 48px 0;
+	margin: 0 0 20px 0;
 }
 .home .sticky {
 	background: #f2f7fc;
@@ -624,7 +624,7 @@ div.menu li {
 .entry-content,
 .entry-summary {
 	clear: both;
-	padding: 12px 0 0 0;
+	margin-bottom: -20px;
 }
 #content .entry-summary p:last-child {
 	margin-bottom: 12px;
