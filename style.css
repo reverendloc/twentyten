@@ -359,7 +359,7 @@ a:hover {
     background: url();
     height: 110px;
     width: 520px;
-    margin-left: 10px;
+    margin-left: 44px;
 }
 
 #rightLogo {
@@ -407,6 +407,7 @@ a:hover {
     margin-right: auto;
 	width: 520px;
     height: 60px;
+    margin-top: 20px;
 }
 #access .menu-header,
 div.menu {
